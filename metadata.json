@@ -1,0 +1,6 @@
+{
+  "name": "GOQii HealthEngage EHR 360",
+  "description": "GOQii HealthEngage EHR 360 marketing page — longitudinal patient records, Smart Health Locker, Insight Engine, Opportunity Engine, and provider ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
